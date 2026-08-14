@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Israel Lara Vega, 
+a researcher interested in bioinformatics, cancer research, and software development. 🧬💻
 
-<!--
-**ilvmx01/ilvmx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🔬 Research: biology and bioinformatics
+- 🎓 Studying Software Development Engineering
 
-Here are some ideas to get you started:
+<a href="https://orcid.org/0000-0002-0511-9591">
+  <img src="https://img.shields.io/badge/-0000--0002--0511--9591-010?&logo=ORCID" alt="ORCID">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Currently learning
+
+### Programming
+C · Python · R · Java · Shell
+
+### Development
+Object-Oriented Programming
+
+### Databases
+MySQL · Database Design
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
+</p>
+
+
