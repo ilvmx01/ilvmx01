@@ -24,10 +24,3 @@ I'm a researcher interested in bioinformatics, cancer research, and software dev
 
 
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=ilvmx01&layout=compact" alt="Top Languages">
-
-
-## 🔗 Links
-
-<a href="https://orcid.org/0000-0002-0511-9591">
-  <img src="https://img.shields.io/badge/-0000--0002--0511--9591-010?&logo=ORCID" alt="ORCID">
-</a>
