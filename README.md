@@ -3,7 +3,7 @@ I'm a researcher interested in bioinformatics, cancer research, and software dev
 
 ## About me
 - 🔬 Research: biology and bioinformatics
-- 🎓 Studying Software Development Engineering
+- 🎓 Software Development Engineering
 
 
 ## 🚀 Current interests
